@@ -62,7 +62,7 @@ PORT=3003
 NODE_ENV=development
 AWS_REGION=us-east-1
 AWS_PROFILE=default
-SNS_TOPIC_ARN=arn:aws:sns:us-east-1:799635276007:Examen1_sns
+SNS_TOPIC_ARN=arn:aws:sns:us-east-1:799635276007:Examen2_sns
 ```
 
 ## Puerto
